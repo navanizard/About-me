@@ -1,15 +1,20 @@
-## Hi! I'm Nava Nizard
+# Hi! 👋 I'm Nava Nizard  
 
-I'm a Freshman at Hunter College studying Computer Science. I'm currently learning Python and exploring various areas within computer science.
+🚀 **Freshman | Hunter College | Computer Science Student**  
 
-## Skills
-- Python
+I'm passionate about exploring different areas of computer science as I build my programming skills. Currently, I'm learning **Python** and **C++**, while strengthening my understanding of software development principles and discrete mathematics.  
 
-## Learning Goals
-- Improve my Python skills by building small projects.
-- Explore web development using HTML and JavaScript.
+## 🛠 Skills  
+- **Languages:** Python, C++  
+- **Concepts:** Problem-solving, Algorithms, Data Structures, OOP
 
-## Contact
-- Email: [nava.nizard@gmail.com](mailto:nava.nizard@gmail.com)
-- LinkedIn: [navanizard](www.linkedin.com/in/nava-nizard)
-- GitHub: [navanizard](https://github.com/navanizard)
+## 🎯 Learning Goals  
+- Build hands-on projects to strengthen my **Python** and **C++** skills.  
+- Explore **web development** with **HTML, CSS, and JavaScript**.  
+- Gain a deeper understanding of **software development principles**.  
+- Start contributing to **open-source projects**.  
+
+## 📬 Contact  
+- 📧 Email: **nava.nizard@gmail.com**  
+- 💼 LinkedIn: [navanizard](https://linkedin.com/in/navanizard)  
+- 🖥 GitHub: [navanizard](https://github.com/navanizard)  
